@@ -1,2 +1,2 @@
 # Adivinar-n-mero
-Simple juego de navigadores sobre adivinar un numero generado aleatoriamente
+Simple juego de navigadores sobre adivinar un número generado aleatoriamente
