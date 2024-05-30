@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.numinput{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
